@@ -1,4 +1,4 @@
-# RF_Module_MicroController_PCB
+# Introduction
 The RFM69HCW module integrated with a Atmega328PB microcontroller to run RF programs. This will potentially be used for future students of COMPSYS301 course at The University of Auckland. [Here is a glimpse of the Pacman robot used in the course](https://www.youtube.com/watch?v=HsrKt_Cxeg4). The robot uses RF as well as light sensors to navigate paths. This is the Slave Module that sits on the robot. The design ensures two way communication will be possible in the future. The video only shows one way communication.
 
 ## Tools
