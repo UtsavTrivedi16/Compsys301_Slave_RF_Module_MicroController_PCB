@@ -1,5 +1,5 @@
 # RF_Module_MicroController_PCB
-The RFM69HCW module integrated with a Atmega328PB microcontroller to run RF programs. This will potentially be used for future students of COMPSYS301 course at The University of Auckland. [Here is a glimpse of the Pacman robot used in the course] (https://www.youtube.com/watch?v=HsrKt_Cxeg4). The robot used RF as well as light sensors to navigate paths.
+The RFM69HCW module integrated with a Atmega328PB microcontroller to run RF programs. This will potentially be used for future students of COMPSYS301 course at The University of Auckland. [Here is a glimpse of the Pacman robot used in the course](https://www.youtube.com/watch?v=HsrKt_Cxeg4). The robot used RF as well as light sensors to navigate paths. This is the Master Module.
 
 ## Tools
 Made on EasyEDA. Exported for Altium and EasyEDA
