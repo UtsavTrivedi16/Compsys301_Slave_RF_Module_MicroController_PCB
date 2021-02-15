@@ -10,9 +10,10 @@ Made on EasyEDA. Exported for Altium and EasyEDA
 
 ## Power and IO
 1) ISP Programming Interface for Atmega328PB.
-2) SPI Probe Area for debugging using Digital Probes
-3) Serial Port (TX/RX) for using print statements from external devices
+2) Serial Port (TX/RX) for programming using FTDI cables and using print statements from external devices.
+3) SPI Probe Area for debugging using Digital Probes.
 4) 5V dedicated Power port. 3.3V Voltage Regulator and Logic Level Translators for system.
+5) Reset Switch to reset processor or upload programs using FTDI Cables.
 
 ## Example Application
 [Garage Home Automation](https://lowpowerlab.com/guide/garagemote/)  
