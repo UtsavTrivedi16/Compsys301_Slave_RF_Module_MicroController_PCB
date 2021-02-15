@@ -8,6 +8,12 @@ Made on EasyEDA. Exported for Altium and EasyEDA
 [LowPowerLab](https://github.com/LowPowerLab/RFM69)  
 [RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF69.html)
 
+## Power and IO
+1) ISP Programming Interface for Atmega328PB.
+2) SPI Probe Area for debugging using Digital Probes
+3) Serial Port (TX/RX) for using print statements from external devices
+4) 5V dedicated Power port. 3.3V Voltage Regulator and Logic Level Translators for system.
+
 ## Example Application
 [Garage Home Automation](https://lowpowerlab.com/guide/garagemote/)  
 [IoT Home Automation](https://lowpowerlab.com/guide/gateway/)
